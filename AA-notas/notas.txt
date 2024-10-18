@@ -16,14 +16,17 @@
   pôr uma variável no texto:
     (f"palavras{nome_de_variável}")
 
+  para escrever 2 ou mais vezes uma coisa:
+    print(nº * "texto")
+
   mostrar texto:
     print("texto")
 
   descubrir o tipo de uma variável:
     type(nome_de_variável)
 
-
-
+  ordem de operadores:
+    parêntesis, potencias, multiplicação/divisão, adição/subtração
 
 
 
