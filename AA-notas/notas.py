@@ -6,6 +6,7 @@
 #  **       (potência)
 #  %        (resto da divisão)
 #  **(1/nª) (raíz)
+#  //       (divisão mas arredonda o resultado para o número inteiro mais próximo)
 #
 #                  outras notas:
 #
@@ -18,6 +19,7 @@
 #  tipos de variável:
 #    int()       números inteiros
 #    float()     números não inteiros
+
 #
 #  mostrar texto:
 #    print("texto")
