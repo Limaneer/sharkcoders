@@ -1,1 +1,46 @@
+                  operadores:
+  +        (mais)
+  -        (menos)
+  *        (vezes)
+  /        (dividir)
+  **       (potência)
+  %        (resto da divisão)
+  **(1/nª) (raíz)
+  //       (divisão mas arredonda o resultado para o número inteiro mais próximo)
 
+                  outras notas:
+#
+#  obter input:
+#    int(input("pergunta?"))
+#
+#  pôr uma variável no texto:
+#    (f"palavras{nome_de_variável}")
+#
+#  mostrar texto:
+#    print("texto")
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#                  dicas:
+#
+#
+#    -nomear bem variáveis
+#    -para deixar uma linha vazia faz "print()"
+#
+#
+#
+#
+#                  tipos de variável:
+#
+#
+#    int()       números inteiros
+#    float()     números não inteiros
+#    bool()      boolean(true/false)
+#    str()       string(texto)
+    char()      1 carater
