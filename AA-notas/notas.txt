@@ -19,7 +19,7 @@
   if:
     if idade >= 18:
       print("és adulto")
-    else
+    else:
       print("és criança")
 
   para escrever 2 ou mais vezes uma coisa:
