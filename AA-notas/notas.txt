@@ -19,7 +19,8 @@
   mostrar texto:
     print("texto")
 
-
+  descubrir o tipo de uma variável:
+    type(nome_de_variável)
 
 
 
