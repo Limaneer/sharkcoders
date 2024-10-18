@@ -16,6 +16,12 @@
   pôr uma variável no texto:
     (f"palavras{nome_de_variável}")
 
+  if:
+    if idade >= 18:
+      print("és adulto")
+    else
+      print("és criança")
+
   para escrever 2 ou mais vezes uma coisa:
     print(nº * "texto")
 
@@ -48,3 +54,13 @@
     bool()      boolean(true/false)
     str("x")    string(texto)
     
+
+
+
+
+Equals: a == b
+Not Equals: a != b
+Less than: a < b
+Less than or equal to: a <= b
+Greater than: a > b
+Greater than or equal to: a >= b
