@@ -47,4 +47,4 @@
     float()     números não inteiros
     bool()      boolean(true/false)
     str("x")    string(texto)
-    char('nº')  1 carater
+    
