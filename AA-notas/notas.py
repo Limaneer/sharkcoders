@@ -16,13 +16,16 @@
 #  pôr uma variável no texto:
 #    (f"palavras{nome_de_variável}")
 #
-#  tipos de variável:
-#    int()       números inteiros
-#    float()     números não inteiros
-
-#
 #  mostrar texto:
 #    print("texto")
+#
+#
+#
+#
+#
+#
+#
+#
 #
 #                  dicas:
 #
@@ -33,7 +36,13 @@
 #
 #
 #
+#                  tipos de variável:
 #
+#
+#    int()       números inteiros
+#    float()     números não inteiros
+#    bool()      boolean(true/false)
+#    str()       string(texto)
 #
 #
 #
