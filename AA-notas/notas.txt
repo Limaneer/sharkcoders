@@ -43,6 +43,10 @@
   ordem de operadores:
     parêntesis, potencias, multiplicação/divisão, adição/subtração
 
+  num if para parar um loop infinito:
+    if:
+      blablabla
+      break
 
 
 
@@ -73,3 +77,22 @@ Less than: a < b
 Less than or equal to: a <= b
 Greater than: a > b
 Greater than or equal to: a >= b
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+                  useful libraries:
+
+random
+  from random import randint
+  print(randint(0,9))
