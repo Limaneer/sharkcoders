@@ -16,6 +16,13 @@
   pôr uma variável no texto:
     (f"palavras{nome_de_variável}")
 
+  transformar em maíusculas:
+    .upper("texto")
+
+  transformar em minúsculas:
+    .lower("TEXTO")
+
+
   if:
     if idade >= 18:
       print("és adulto")
