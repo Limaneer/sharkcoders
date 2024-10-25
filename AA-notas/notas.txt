@@ -17,10 +17,10 @@
     (f"palavras{nome_de_variável}")
 
   transformar em maíusculas:
-    upper("texto")
+    ("texto").upper()
 
   transformar em minúsculas:
-    lower("TEXTO")
+    ("TEXTO").lower()
 
 
   if:
