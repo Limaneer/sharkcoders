@@ -77,8 +77,8 @@ Less than: a < b
 Less than or equal to: a <= b
 Greater than: a > b
 Greater than or equal to: a >= b
-
-
+and: a==x and b==x
+or:  a==x or b==x
 
 
 
