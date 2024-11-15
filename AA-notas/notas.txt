@@ -7,6 +7,14 @@
   %        (resto da divisão)
   **(1/nª) (raíz)
   //       (divisão mas arredonda o resultado para o número inteiro mais próximo)
+  +=       (mais)                                                                   +
+  -=       (menos)                                                                  |
+  *=       (vezes)                                                                  |
+  /=       (dividir)                                                                |
+  **=      (potência)                                                               +--afeta varíaveis
+  %=       (resto da divisão)                                                       |
+  **(1/nª)=(raíz)                                                                   |
+  //=      (divisão mas arredonda o resultado para o número inteiro mais próximo)   +
 
                   outras notas:
 
