@@ -48,6 +48,12 @@
       blablabla
       break
 
+  Loop:
+    a = True
+
+    While a == True:
+        print("AAAAAAAAAAAAAAAAAAAA")
+
 
 
                   dicas:
