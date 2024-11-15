@@ -110,3 +110,7 @@ or:  a==x or b==x
 random
   from random import randint
   print(randint(0,9))
+
+espera x segundos:
+  from time import sleep
+  sleep(segundos)
