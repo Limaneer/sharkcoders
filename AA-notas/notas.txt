@@ -76,11 +76,11 @@
                   tipos de variável:
 
 
-    int()       números inteiros
-    float()     números não inteiros
-    bool()      boolean(true/false)
-    str("x")    string(texto)
-    
+    int()             números inteiros
+    float()           números não inteiros
+    bool()            boolean(true/false)
+    str("x")          string(texto)
+    lista =[x,y,d]    lista
 
 
 
