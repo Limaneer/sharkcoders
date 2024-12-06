@@ -24,6 +24,15 @@
   pôr uma variável no texto:
     (f"palavras{nome_de_variável}")
 
+  adicionar a lista:
+    lista.append(o q vais adicionar)
+
+  tirar a lista:
+    lista.remove(o q vais tirar)
+
+  esvaziar a lista:
+    lista.clear()
+
   garantir se x faz parte da lista r:
     if x in r
 
