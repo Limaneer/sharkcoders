@@ -24,6 +24,9 @@
   pôr uma variável no texto:
     (f"palavras{nome_de_variável}")
 
+  garantir se x faz parte da lista r:
+    if x in r
+
   transformar em maíusculas:
     ("texto").upper()
 
