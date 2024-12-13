@@ -27,6 +27,9 @@
   adicionar a lista:
     lista.append(o q vais adicionar)
 
+  substituir coisa na lista:
+    lista[lista.index(nome)] = nome
+
   tirar a lista:
     lista.remove(o q vais tirar)
 
