@@ -34,7 +34,7 @@ def but2():
 
     root.jog = True
 
-root.title("hunting game")
+root.title("Joguinho XPTO")
 root.geometry("500x400+400+100")
 root.wm_resizable(width=False,height=False)
 
