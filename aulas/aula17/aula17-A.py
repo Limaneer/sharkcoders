@@ -21,8 +21,7 @@ def tempo():
         label6.config(text=f"  Tempo restante: {root.tempo} segundos")
     else:
         root.jog = False
-        print("sefsfes")
-
+        
 
 
 
