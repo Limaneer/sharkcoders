@@ -40,7 +40,7 @@ for x in word:
 
 ded = False
 vidas = 6
-while ded == False:
+while not ded:
 
 
 
@@ -104,17 +104,20 @@ while ded == False:
     if adivinha == l1:
         e1 = l1
         win = win + 1
-    elif adivinha == l2:
+
+    if adivinha == l2:
         e2 = l2
         win = win + 1
-    elif adivinha == l3:
+
+    if adivinha == l3:
         e3 = l3
         win = win + 1
-    elif adivinha == l4:
+
+    if adivinha == l4:
         e4 = l4
         win = win + 1
 
-    else:
+    if adivinha not in (l1, l2, l3, l4):
         print("ERRADO!!")
         mal.append(adivinha)
         x = vidas
