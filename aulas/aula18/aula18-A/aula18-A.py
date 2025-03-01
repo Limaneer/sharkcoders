@@ -11,12 +11,12 @@ root.nome = ""
 root.pontuacoes = ""
 
 def puxar():
-    with open("aula18-A/aula18-A.txt", "r") as ficheiro:
+    with open("aula18-A.txt", "r") as ficheiro:
         root.pontuacoes = ficheiro.read()
     label10.config(text = f"{root.pontuacoes}")
 
 def salvar():
-    with open("aula18-A/aula18-A.txt", "a") as ficheiro:
+    with open("aula18-A.txt", "a") as ficheiro:
         ficheiro.write(f"Pont.:{root.pont},  Nome:{root.nome} \n")
 
 def tempo():
